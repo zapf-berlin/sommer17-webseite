@@ -1,0 +1,27 @@
+<!--[if lt IE 8]>
+		<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+<script>
+	var scroller = new ScrollMagic.Controller();
+</script>
+
+<div id='main-header' class="header-container landing">
+	<header class="clearfix">
+
+		<div id="header-image" class="header-image wrapper">
+			<img id="skyline" src="{{ .Site.BaseURL }}/img/skyline.svg"/>
+			<img id="header-fg" src="{{ .Site.BaseURL }}/img/header_fg.svg"/>
+		</div>
+
+		<a id="trigger-headerimage"/>
+		<nav id="main-menu" class="clearfix">
+			<div class="menu-button">Menu</div>
+			<ul class="wrapper flexnav">
+				<li><a href="{{ .Site.BaseURL }}/">Home</a></li>
+				{{ range .Site.Data.Menus }}
+				<li><a href="{{ .URL  }}">{{ .Name }}</a></li>
+				{{ end }}
+			</ul>
+		</nav>
+	</header>
+</div>
