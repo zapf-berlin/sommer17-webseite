@@ -1,0 +1,7 @@
+baseurl = "http://zapf.in/berlin/"
+languageCode = "de-DE"
+title = "ZaPF in Berlin"
+
+theme = "sommer17"
+
+[params]
