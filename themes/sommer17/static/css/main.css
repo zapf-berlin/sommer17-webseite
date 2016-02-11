@@ -229,10 +229,15 @@ a:hover.anchor {
 .main div.submenu,
 .main div.submenu-spacer {
 	padding: 0;
+	text-align: left;
 }
 
 .anchorific li.active > a {
 	border-right: #e54339 10px solid;
+}
+
+.anchorific li ul li > ul {
+    margin-left: auto;
 }
 
 /* ===============
