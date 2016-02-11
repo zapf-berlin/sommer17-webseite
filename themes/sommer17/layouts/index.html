@@ -1,8 +1,8 @@
 {{ partial "head.html" . }}
 <div id='main-content' class="main-container">
 	<div class="main wrapper clearfix">
-		<h1>{{ .Title }}</h1>
 		{{ range where .Data.Pages "Type" "home" }}
+			<h1>{{ .Title }}</h1>
 			{{ .Content }}
 		{{ end }}
 	</div>
