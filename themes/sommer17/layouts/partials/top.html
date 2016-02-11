@@ -19,7 +19,7 @@
 			<ul class="wrapper flexnav">
 				<li><a href="{{ .Site.BaseURL }}/">Home</a></li>
 				{{ range .Site.Data.Menus }}
-				<li><a href="{{ .URL  }}">{{ .Name }}</a></li>
+				<li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
 				{{ end }}
 			</ul>
 		</nav>
