@@ -11,7 +11,7 @@ anmeldung:
   URL: "/anmeldung"
 
 unterstuetzer:
-  Name: "Unterstützer & Sponsoren"
+  Name: "Unterstützer"
   URL: "/unterstuetzer"
 
 orientierung:
@@ -21,3 +21,7 @@ orientierung:
 anreise:
   Name: "Anreise"
   URL: "/anreise"
+
+team:
+  Name: "Über uns"
+  URL: "/team"
