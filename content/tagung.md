@@ -19,8 +19,6 @@ Der folgende vorläufige Programmplan gibt euch einen Überblick über den zeitl
 ## Fachvorträge
 ---
 
-## Tagungsheft
----
-
 ## ZaPF-Reader
 ---
+Der ZaPF-Reader ist eine Zusammenfassung der gesamten Tagung und enthält alle Protokolle, Resolutionen und Stellungnahmen. Nach der Tagung wird er hier veröffentlicht.
