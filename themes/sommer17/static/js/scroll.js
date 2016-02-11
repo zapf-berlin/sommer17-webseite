@@ -7,7 +7,6 @@ function compute_duration() {
 }
 
 var scene = new ScrollMagic.Scene({offset: compute_offset(), duration: compute_duration(), triggerHook: 0})
-	.addIndicators({name:"foo"})
 	.on("enter", function (e) {
 
 		if (e.target.controller().info("scrollDirection") == "FORWARD") {
