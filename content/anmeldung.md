@@ -6,4 +6,5 @@ keywords = []
 title = "Anmeldung"
 
 +++
+---
 Die Anmeldung wird freigeschaltet, sobald die Einladungen an die Fachschaften verschickt wurden.
