@@ -1,27 +1,27 @@
-zapf:
+0:
   Name: "Über die ZaPF"
   URL: "/zapf"
 
-tagung:
+1:
   Name: "Die Tagung"
   URL: "/tagung"
 
-anmeldung:
-  Name: "Anmeldung"
-  URL: "/anmeldung"
-
-unterstuetzer:
-  Name: "Unterstützer"
-  URL: "/unterstuetzer"
-
-orientierung:
-  Name: "Orientierung"
-  URL: "/orientierung"
-
-anreise:
+2:
   Name: "Anreise"
   URL: "/anreise"
 
-team:
+3:
+  Name: "Orientierung"
+  URL: "/orientierung"
+
+4:
+  Name: "Anmeldung"
+  URL: "/anmeldung"
+
+5:
   Name: "Über uns"
   URL: "/team"
+
+6:
+  Name: "Unterstützer"
+  URL: "/unterstuetzer"
