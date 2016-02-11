@@ -13,3 +13,7 @@ anmeldung:
 unterstuetzer:
   Name: "Unterstützer"
   URL: "/unterstuetzer"
+
+orientierung:
+  Name: "Anreise und Orientierung"
+  URL: "/orientierung"
