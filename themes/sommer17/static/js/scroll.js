@@ -1,5 +1,5 @@
 function compute_offset() {
-	return 0.1*$('#header-image').outerHeight();
+	return 0.3*$('#header-image').outerHeight();
 }
 function compute_duration() {
 	/* Set the duration according to the height of the image */
