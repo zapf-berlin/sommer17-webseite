@@ -9,3 +9,7 @@ tagung:
 anmeldung:
   Name: "Anmeldung"
   URL: "/anmeldung"
+
+unterstuetzer
+  Name: "Unterstützer"
+  URL: "/unterstuetzer"
