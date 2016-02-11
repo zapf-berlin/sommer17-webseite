@@ -55,3 +55,16 @@ Vom Flughafen Tegel gestaltet sich die ganze Sache schon wieder etwas umständli
 ### BER
 Gegebenfalls kann es zu Verzögerungen von einigen Jahren kommen.
 
+## Weitere Anreisemöglichkeiten
+---
+Selbstverständlich sind eurer Kreativität bei der Anreise keine Grenzen gesetzt, hier ein paar Ideen:
+
+### Per Helikopter
+(Gibt es Landeplätze in A-hof? Ansonsten sind ja genug Wiesen da)
+
+### Per Anhalter
+Gewappnet mit einem Schild, auf dem gut leserlich *Berlin* stehen sollte und einem Lächeln im Gesicht sollte der Anreise per Anhalter nichts im Wege stehen.
+
+### Hijacked plane
+Aber davon raten wir stark ab.. Drachen sollen auch sehr beliebt sein..
+
