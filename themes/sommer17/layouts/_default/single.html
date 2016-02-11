@@ -1,10 +1,21 @@
 {{ partial "head.html" . }}
 <div id='main-content' class="main-container">
 	<div class="main wrapper clearfix">
+		{{ if isset .Params "submenu" }}
+		<div class="submenu" id="submenu">
+			<nav class="anchorific flexnav"></nav>
+			</nav>
+		</div>
+
+		<article>
+		{{ end }}
 		<div class="post">
 			<h1>{{ .Title }}</h1>
 			{{ .Content }}
 		</div>
+		{{ if isset .Params "submenu" }}
+		</article>
+		{{ end }}
 	</div>
 </div>
 {{ partial "foot.html" . }}
