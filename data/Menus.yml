@@ -10,6 +10,6 @@ anmeldung:
   Name: "Anmeldung"
   URL: "/anmeldung"
 
-unterstuetzer
+unterstuetzer:
   Name: "Unterstützer"
   URL: "/unterstuetzer"
