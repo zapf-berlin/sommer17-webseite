@@ -1,5 +1,5 @@
 zapf:
-  Name: "Die ZaPF"
+  Name: "Über die ZaPF"
   URL: "/zapf"
 
 tagung:
@@ -11,9 +11,13 @@ anmeldung:
   URL: "/anmeldung"
 
 unterstuetzer:
-  Name: "Unterstützer"
+  Name: "Unterstützer & Sponsoren"
   URL: "/unterstuetzer"
 
 orientierung:
-  Name: "Anreise und Orientierung"
+  Name: "Orientierung"
   URL: "/orientierung"
+
+anreise:
+  Name: "Anreise"
+  URL: "/anreise"
