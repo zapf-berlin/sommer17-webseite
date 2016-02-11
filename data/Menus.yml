@@ -1,3 +1,11 @@
 zapf:
   Name: "Die ZaPF"
   URL: "/zapf"
+
+tagung:
+  Name: "Die Tagung"
+  URL: "/tagung"
+
+anmeldung:
+  Name: "Anmeldung"
+  URL: "/anmeldung"
