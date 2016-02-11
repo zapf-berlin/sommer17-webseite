@@ -1,23 +1,15 @@
 function compute_offset() {
-	return 0.5*$('#header-image').outerHeight();
-}
-function compute_duration() {
-	/* Set the duration according to the height of the image */
-	return $('#header-image').outerHeight()-compute_offset() -12;
+	return $('#header-image').outerHeight();
 }
 
-var scene = new ScrollMagic.Scene({offset: compute_offset(), duration: compute_duration(), triggerHook: 0})
+var scene = new ScrollMagic.Scene({offset: compute_offset(), triggerHook: 0})
 	.on("enter", function (e) {
-
-		if (e.target.controller().info("scrollDirection") == "FORWARD") {
-			$('html, body').animate({scrollTop: ($('#main-menu').offset().top)}, 400, 'swing', function() {
-				$('#main-menu').addClass('pinned');
-			});
-			scene['duration'](compute_duration());
-		} else {
-			$('#main-menu').removeClass('pinned');
-			$('html, body').animate({scrollTop: 0}, 'slow');
-		}
+		$('#main-menu').addClass('pinned');
+		scene['offset'](compute_offset());
+	})
+	.on("leave", function (e) {
+		$('#main-menu').removeClass('pinned');
+		scene['offset'](compute_offset());
 	})
 	.addTo(scroller);
 
@@ -33,7 +25,6 @@ function minimum_resize() {
 
 $(window).on('resize', minimum_resize);
 $(minimum_resize);
-$(window).on('resize', function() {scene['duration'](compute_duration());});
 $(window).on('resize', function() {scene['offset'](compute_offset());});
 
 var pin_navigation = new ScrollMagic.Scene({triggerElement: '#submenu', triggerHook: 0.25})
