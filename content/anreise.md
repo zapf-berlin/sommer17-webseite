@@ -60,7 +60,7 @@ Gegebenfalls kann es zu Verzögerungen von einigen Jahren kommen.
 Selbstverständlich sind eurer Kreativität bei der Anreise keine Grenzen gesetzt, hier ein paar Ideen:
 
 ### Per Helikopter
-(Gibt es Landeplätze in A-hof? Ansonsten sind ja genug Wiesen da)
+Es befindet sich eine erfahrungsgemäß nutzbare Wiese hinter dem LCP, dem Zentralen Punkt der ZaPF. Für genauere Angaben bitte uns kontaktieren.
 
 ### Per Anhalter
 Gewappnet mit einem Schild, auf dem gut leserlich *Berlin* stehen sollte und einem Lächeln im Gesicht sollte der Anreise per Anhalter nichts im Wege stehen.
