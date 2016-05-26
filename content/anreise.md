@@ -13,9 +13,11 @@ submenu = "yes"
 Wie auch schon im Sommer 2007 und Winter 2010 findet die ZaPF vom 24. bis 28. Mai 2017 an der Humboldt-Universität zu Berlin auf dem Campus Adlershof statt.
 
 **Anschrift:** Newtonstraße 15, 12489 Berlin
+**Koordinaten:** 52.4328527, 13.5296965
 
 ## Anreise mit dem Auto
----
+---i
+Die meisten unter euch sollten irgendwie auf dem *Berliner Ring* (A10) landen. Im Südosten von Berlin liegt das *Schönefelder Kreuz* (Abfahrt 11). Hier fahrt ihr auf die A113 in Richtung Berlin-Zentrum. Solltet ihr von der A13 (z.B. aus Dresden) kommen, habt ihr Glück und müsst einfach nur geradeaus fahren. Folgt der Stadtautobahn A113 bis zur Abfahrt 5 *Adlershof*. Nach der Abfahrt befindet ihr euch auf dem *Ernst-Ruska-Ufer*. Biegt nach 1km links auf die *Wegedornstraße* ab. Nach weiteren 259m biegt ihr rechts auf die *Rudower Chaussee* ab. Biegt nach 469m links auf die *Newtonstraße* ab. Euer Ziel befindet sich nach weiteren 313m auf der rechten Seite. 
 
 ## Anreise mit der Bahn
 ---

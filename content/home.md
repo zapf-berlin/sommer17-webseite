@@ -3,7 +3,7 @@ categories = []
 date = "2016-02-10T22:45:03+01:00"
 description = ""
 keywords = []
-title = "Willkommen auf der Seite der Sommer-ZaPF 2017 in Bärlin!"
+title = "Willkommen auf der Seite der Sommer-ZaPF 2017 in Berlin!"
 type = "home"
 
 +++
