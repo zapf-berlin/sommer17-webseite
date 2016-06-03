@@ -39,12 +39,12 @@ Am einfachsten ist es, wenn ihr vom ZOB zur S-Bahn Station *Messe Nord/ICC* lauf
 Falls ihr doch an einem der anderen Bahnhöfe ankommen solltet, haben wir noch ein paar weitere Wegbeschreibungen für euch zusammengestellt:
 
 ### Bahnhof Zoo oder Alexanderplatz
-Auch wenn diese beiden Bahnhöfe nicht unbedingt nah beiander liegen, unterscheidet sich der Weg nicht groß, da sie von den sogenannten "Stadtlinien" S5, S7 und S75 angefahren werden. Ebenfalls auf der Strecke genau in der Mitte zwischen diesen Haltestellen liegt *Berlin Hbf*, deshalb schaut für die weitere Wegbeschreibung unter [Anreise mit der Bahn](http://localhost:1313/berlin/anreise/#berlin-hbf:1ef837bac404c76400409a2583d081d0).
+Auch wenn diese beiden Bahnhöfe nicht unbedingt nah beiander liegen, unterscheidet sich der Weg nicht groß, da sie von den sogenannten "Stadtlinien" S5, S7 und S75 angefahren werden. Ebenfalls auf der Strecke genau in der Mitte zwischen diesen Haltestellen liegt *Berlin Hbf*, deshalb schaut für die weitere Wegbeschreibung unter [Anreise mit der Bahn](#berlin-hbf:1ef837bac404c76400409a2583d081d0).
 
 ### Südkreuz Bhf
-Für die Weiterfahrt auch hier wieder unter [Anreise mit der Bahn](http://localhost:1313/berlin/anreise/#berlin-südkreuz:1ef837bac404c76400409a2583d081d0) schauen.
+Für die Weiterfahrt auch hier wieder unter [Anreise mit der Bahn](#berlin-südkreuz:1ef837bac404c76400409a2583d081d0) schauen.
 
-Tipp: sollte der Bus aus Dresden kommen oder über Dresden fahren, wird er wahrscheinlich zuvor am Flughafen Schönefeld halten. Von hier verkürzt sich eure Weiterfahrt nach *Adlershof* erheblich (siehe [Anreise mit Flugzeug](http://localhost:1313/berlin/anreise/#schönefeld:1ef837bac404c76400409a2583d081d0)). 
+Tipp: sollte der Bus aus Dresden kommen oder über Dresden fahren, wird er wahrscheinlich zuvor am Flughafen Schönefeld halten. Von hier verkürzt sich eure Weiterfahrt nach *Adlershof* erheblich (siehe [Anreise mit Flugzeug](#schönefeld:1ef837bac404c76400409a2583d081d0)). 
 
 ## Anreise mit dem Flugzeug
 ---
@@ -52,7 +52,7 @@ Tipp: sollte der Bus aus Dresden kommen oder über Dresden fahren, wird er wahrs
 Vom Flughafen Schönefeld sind es gerade mal 10 Minuten Fahrtzeit mit der S-Bahn nach *Adlershof*. Nehmen könnt ihr die S9 Richtung *Pankow* oder die S45 Richtung *Südkreuz*.
 
 ### Tegel
-Vom Flughafen Tegel gestaltet sich die ganze Sache schon wieder etwas umständlicher. Am einfachsten nehmt ihr den Bus TXL Richtung *S+U Alexanderplatz via Hauptbahnhof* bis *Beusselstraße* und fahrt von hier aus mit der Ringbahn S41 (hier **im** Uhrzeigersinn) bis *Ostkreuz*. Von *Ostkreuz* dann wieder mit der S8, S9 oder S85 (siehe [Anreise mit der Bahn](http://localhost:1313/berlin/anreise/#berlin-hbf:1ef837bac404c76400409a2583d081d0)) nach *Adlershof*.
+Vom Flughafen Tegel gestaltet sich die ganze Sache schon wieder etwas umständlicher. Am einfachsten nehmt ihr den Bus TXL Richtung *S+U Alexanderplatz via Hauptbahnhof* bis *Beusselstraße* und fahrt von hier aus mit der Ringbahn S41 (hier **im** Uhrzeigersinn) bis *Ostkreuz*. Von *Ostkreuz* dann wieder mit der S8, S9 oder S85 (siehe [Anreise mit der Bahn](#berlin-hbf:1ef837bac404c76400409a2583d081d0)) nach *Adlershof*.
 
 ### BER
 Gegebenfalls kann es zu Verzögerungen von einigen Jahren kommen.
