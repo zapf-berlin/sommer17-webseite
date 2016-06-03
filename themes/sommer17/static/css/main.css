@@ -213,6 +213,10 @@ a.anchor {
 	display: block;
 }
 
+.anchorific li {
+	clear: left;
+}
+
 a.anchor {
 	text-decoration: none;
 	position: relative;
