@@ -11,6 +11,8 @@ submenu = "yes"
 ---
 Die ZaPF findet vom 24. bis 28. Mai 2017 statt. Traditionell ist hierbei der Mittwoch für die Anreise und das Anfangsplenum vorgesehen, der Sonntag für das Endplenum sowie die Abreise.
 
+<img src="http://zapf.in/berlin//img/Ablaufplan.PNG" alt="Ablaufplan(vorläufig)" width="100%" >
+
 ## Exkursionen
 ---
 
