@@ -113,14 +113,14 @@ nav.anchorific{
     float: left;
     padding: 15px 0px 0px 0px;
     margin: 0px auto 0px auto;
-    text-align: center;
+    text-align: left;
 }
 #right {    /* Rechte Spalte ohne feste Breite und float:right */
     width: auto;
-    float: left;
+    float: right;
     padding: 15px 10px 0px 0px;
     margin: 0px auto 0px auto;
-    text-align: right;
+    text-align: left;
 }
  #clear {    /* Beendet den Float-Bereich */
     clear: both;
