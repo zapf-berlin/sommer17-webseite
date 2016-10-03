@@ -6,8 +6,8 @@ keywords = []
 title = "Orientierung vor Ort"
 
 +++
-# Zur Orientierung
+# Zur Orientierung vor Ort
 ---
-Vom S-Bahnhof Adlershof ist es dann auch nicht mehr weit zum Austragungsort der ZaPF ...
+Noch im Aufau...
 
 
