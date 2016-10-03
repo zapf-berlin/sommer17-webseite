@@ -10,9 +10,9 @@
   Name: "Anreise"
   URL: "/anreise"
 
-3:
-  Name: "Orientierung"
-  URL: "/orientierung"
+#3:
+#  Name: "Orientierung"
+#  URL: "/orientierung"
 
 4:
   Name: "Anmeldung"
