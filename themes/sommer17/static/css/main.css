@@ -91,7 +91,40 @@ nav.anchorific{
 .footer-container {
     background: #b3b3b3;
 }
-
+#footer {   /* Footerbereich */
+    background-color: #b3b3b3;
+    color: #ffffff;
+    height: 80px;
+    width: 100%;
+    min-width: 500px;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+#left {     /* Linke Spalte mit 33% Breite und float:left */
+    width: 33%;
+    float: left;
+    padding: 15px 0px 0px 10px;
+    margin: 0px auto 0px auto;
+    text-align: left;
+}
+#center {   /* Mittlere Spalte mit 33% Breite und float:left */
+    width: 33%;
+    float: left;
+    padding: 15px 0px 0px 0px;
+    margin: 0px auto 0px auto;
+    text-align: center;
+}
+#right {    /* Rechte Spalte ohne feste Breite und float:right */
+    width: auto;
+    float: right;
+    padding: 15px 10px 0px 0px;
+    margin: 0px auto 0px auto;
+    text-align: right;
+}
+#clear {    /* Beendet den Float-Bereich */
+    clear: both;
+}
 .main aside {
     background: #4d4d4d;
 }
