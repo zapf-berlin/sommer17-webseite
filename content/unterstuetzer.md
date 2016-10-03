@@ -6,6 +6,12 @@ keywords = []
 title = "Unterstützer & Sponsoren"
 
 +++
-# Unterstützer & Sponsoren
+## Sponsoren
 ---
 Um die Tagung durchführen zu können, sind wir über jede Unterstützung, die wir bekommen können, zutiefst dankbar! Ganz gleich ob das Unterstützung in Form von helfenden Händen, finanziellen Mitteln, Vergünstigungen und Leihgaben, oder auch Sachspenden sind. Wer uns helfen möchte, möge bitte eine E-Mail an uns (sponsoring[at]zapf.in-berlin.de) schreiben. Hier werden nun, ebenso wie in unserem Tagungsheft in gedruckter Form, all diejenigen gewürdigt, ohne deren Unterstützung die ZaPF in Berlin nicht möglich wäre:
+
+## Helfika
+---
+Für die Durchführung der Tagung sind wir auf die tatkräftige Unterstützung zahlreicher helfender Hände angewiesen. Wenn ihr uns helfen wollt oder mehr Informationen dazu haben wollt, schreibt eine Mail an helfika[at]zapf.in-berlin.de
+
+Ihr könnt euch demnächst auch direkt in unsere Helfika-Mailingliste eintragen.
