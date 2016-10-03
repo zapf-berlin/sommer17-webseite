@@ -18,12 +18,13 @@ Die ZaPF findet vom 24. bis 28. Mai 2017 statt. Traditionell ist hierbei der Mit
 ### Max-Planck-Institut für Kolloid- und Grenzflächenforschung (MPIKG)
 Das MPIKG befindet sich im Wissenschaftspark Golm. Es befasst sich mit kleinen und dünnen Strukturen im Nano- bis Mikrometerbereich, die so konzipiert sind, dass sie von selbst eigene Strukturen aufbauen. Diese öffnen die Tore zu Forschungsgebieten, wie „intelligente“ Wirkstoffträgern und Biomaterialien.
 Das MPIKG gliedert sich in die Bereiche:
+ 
 * Biomaterialien
 * Biomolekulare Systeme
 * Kolloidchemie
 * Theorie und Bio-Systeme
 * Mechano(Bio-)Chemie
-* Grenzflächen (Emeritusgruppe)
+* Grenzflächen (Emeritusgruppe)	 
 
 _Die Exkursion ins MPIKG ist auf 10-15 Personen begrenzt._
 
@@ -40,6 +41,7 @@ _Die Exkursion beschränkt sich auf 10-15 Personen._
 ### Fraunhofer-Institut für Zelltherapie und Immunologie (IZI)
 Das IZI im Wissenschaftspark Golm ist darauf spezialisiert, Lösungen für Probleme zu finden, die sich in der Medizin, Bio- und den Ingenieurswissenschaften ansammeln. Ihre Hauptaufgabe ist die Auftragsforschung für Unternehmen, Kliniken, Labore und Forschungseinrichtungen, um zum Beispiel Point-of-care-Anwendungen wie die in-Vitro-Diagnosik oder das Drogenscreening zu verbessern.
 Der Standort in Potsdam-Golm forscht in folgenden Gebieten:
+
 * Automatisierung: Hierbei ist das Ziel, die Effizienz, Qualität und Quantität von Zellprodukten zu steigern.
 * Molekulare und zelluläre Bioanalytik: Hier werden Zellproben kultiviert, prozessiert und analysiert.
 * Zellfreie und zellbasierte Bioproduktion: Hier werden synthetische Stoffprodukte entwickelt, die auf lebenden Zellen basieren und/oder darauf verzichtet wird.
@@ -48,6 +50,7 @@ __Der Schwerpunkt der Exkursion liegt auf der Bioanalytik und den Bioprozessen._
 
 ### Fritz-Haber-Institut (FHI)
 Das FHI wurde 1911 in Berlin-Dahlem als Kaiser-Wilhelm-Institut für physikalische Chemie und Elektrochemie gegründet. Der erste Direktor dort wurde sein Namensgeber, Fritz Haber. Während seiner langen Geschichte wurden einige Teilinstitute hinzugefügt oder geschlossen, sodass das Institut heute aus fünf Hauptgebieten besteht:
+
 * Anorganische Chemie
 * Chemikalische Physik
 * Molekülphysik
