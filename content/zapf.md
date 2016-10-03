@@ -6,7 +6,7 @@ keywords = []
 title = "Über die ZaPF"
 
 +++
-# Über die ZaPF
+## Über die ZaPF
 ---
 Die ZaPF (Zusammenkunft aller Physik-Fachschaften) ist die deutsche Bundesfachschaftentagung (BuFaTa) des Fachbereichs Physik. Bundesfachschaftentagungen sind generell freiwillige studentische Interessenvertretungen eines Fachbereichs an Fachhochschulen und Universitäten in Deutschland, in welche die Fachschaftsräte der einzelnen Hochschulen jeweils Vertreter entsenden. Diese Tagung fand im Winter 1979 erstmalig in Karlsruhe statt und wird seitdem halbjährlich an einer Hochschule im deutschsprachigen Raum veranstaltet. Ursprünglich als deutsche Interessenvertretung verfasst, öffnete sich die ZaPF recht schnell auch den deutschsprachigen Nachbarländern Österreich und Schweiz und mit [Zürich](http://zapf.wiki/WiSe06) (Winter 2006) und [Wien](http://zapf.wiki/WiSe13) (Winter 2013) fand die ZaPF auch schon erfogreich außerhalb Deutschlands statt.
 
@@ -14,7 +14,7 @@ Diese Bundesfachschaftentagung ist eine grenzüberschreitende Interessenvertretu
 
 Organisiert wird die ZaPF durch den [ZaPF e.V.](http://zapfev.de/) (dem Verein zur Förderung der ZaPF), sowie hauptsächlich durch die Physik-Fachschaft der ausrichtenden Hochschule. Die Tagung wird beispielsweise durch das Bundesministerium für Bildung und Forschung, oder durch regionale und fachbezogene Sponsoren finanziert. Um die überregionale Vernetzung mit studentischen Vertretern fachverwandter und auch fachübergreifender Studiengänge zu fördern, war die ZaPF maßgeblich an der Bildung der sog. MeTaFa (Meta-Tagung der Fachschaften) beteiligt, einer separaten Fachschaftentagung, bei der es darum geht die Studienbedingungen allgemein zu fördern und auch die Planung, sowie die Umsetzung der einzelnen BuFaTas zu optimieren.
 
-# ZaPF-Reader
+## ZaPF-Reader
 ---
 Der ZaPF-Reader ist eine Zusammenfassung der gesamten Tagung und enthält alle Protokolle, Resolutionen und Stellungnahmen. Nach der Tagung wird er hier veröffentlicht.
 
