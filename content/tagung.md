@@ -57,6 +57,3 @@ Das FHI wurde 1911 in Berlin-Dahlem als Kaiser-Wilhelm-Institut für physikalisc
 * Physikalische Chemie
 * Theorie
 
-## ZaPF-Reader
----
-Der ZaPF-Reader ist eine Zusammenfassung der gesamten Tagung und enthält alle Protokolle, Resolutionen und Stellungnahmen. Nach der Tagung wird er hier veröffentlicht.
