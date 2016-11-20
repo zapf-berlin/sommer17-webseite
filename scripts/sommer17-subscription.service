@@ -1,0 +1,17 @@
+[Unit]
+Description=Sommer17 Subscription
+After=syslog.target network.target
+
+[Service]
+PIDFile=/var/run/sommer17-gunicorn.pid
+WorkingDirectory=/srv/sommer17-webseite/scripts
+ExecStart=/usr/bin/gunicorn3 -c gunicorn.conf subscribe:app
+ExecReload=/bin/kill -s HUP $MAINPID
+ExecStop=/bin/kill -s QUIT $MAINPID
+PrivateTmp=true
+# Change to a different user (and group) here
+User=www-data
+Group=www-data
+
+[Install]
+WantedBy=multi-user.target

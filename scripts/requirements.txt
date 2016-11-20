@@ -1,0 +1,6 @@
+Flask
+mailmanclient
+gunicorn
+validate-email-address
+py3dns
+

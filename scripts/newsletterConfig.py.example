@@ -1,0 +1,17 @@
+SECRET_KEY="V3RYL0N6SUP3RS3CR3TR4ND0M57R1N6"
+
+# Debug mode only logs subscriptions
+DEBUG = True
+
+# For Mailman 3
+MAILMAN_REST_URL = 'http://localhost:8001/3.0'
+MAILMAN_REST_USER = ''
+MAILMAN_REST_PASS = ''
+
+# Password to be entered on the form
+NEWSLETTER_PASSWORD = 'foobar'
+NEWSLETTER_LIST_NAME = 'newsletter@foobar.example.com'
+NEWSLETTER_FAIL_PATH = "/berlin/newsletter/fail"
+NEWSLETTER_SUCCESS_PATH = "/berlin/newsletter/subscribed"
+NEWSLETTER_VERIFY_FAILED_PATH = "/berlin/newsletter/fishy"
+NEWSLETTER_ALREADY_SUBSCRIBED_PATH = "/berlin/newsletter/double_subscription"
