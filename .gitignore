@@ -1,3 +1,6 @@
 public/
 *.swp
 newsletterConfig.py
+*.pyo
+*.pyc
+/virtualenv
