@@ -1,31 +1,31 @@
 0:
   Name: "Die ZaPF"
-  URL: "/zapf"
+  URL: "zapf"
 
 1:
   Name: "Die Tagung"
-  URL: "/tagung"
+  URL: "tagung"
 
 2:
   Name: "Anreise"
-  URL: "/anreise"
+  URL: "anreise"
 
 #3:
 #  Name: "Orientierung"
-#  URL: "/orientierung"
+#  URL: "orientierung"
 
 4:
   Name: "Anmeldung"
-  URL: "/anmeldung"
+  URL: "anmeldung"
 
 5:
   Name: "Über uns"
-  URL: "/team"
+  URL: "team"
 
 6:
   Name: "Unterstützer"
-  URL: "/unterstuetzer"
+  URL: "unterstuetzer"
 
 7:
   Name: "Newsletter"
-  URL: "/newsletter"
+  URL: "newsletter"
