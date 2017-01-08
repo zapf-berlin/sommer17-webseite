@@ -15,7 +15,7 @@ Wie auch schon im Sommer 2007 und Winter 2010 findet die ZaPF vom 24. bis 28. Ma
 **Anschrift:** Newtonstraße 15, 12489 Berlin  
 **Koordinaten:** 52.4328527, 13.5296965
 
-<iframe width=100% height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=13.518612384796143%2C52.427338196064454%2C13.540735244750975%2C52.4385499135805&amp;layer=mapnik&amp;marker=52.43294441135496%2C13.52967381477356" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=52.4329&amp;mlon=13.5297#map=16/52.4329/13.5297">Größere Karte anzeigen</a></small>
+<iframe width=100% height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=13.518612384796143%2C52.427338196064454%2C13.540735244750975%2C52.4385499135805&amp;layer=mapnik&amp;marker=52.43294441135496%2C13.52967381477356" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.4329&amp;mlon=13.5297#map=16/52.4329/13.5297">Größere Karte anzeigen</a></small>
 
 ## Anreise mit dem Auto
 ---
