@@ -13,13 +13,23 @@
 			<img id="header-fg" src="{{ .Site.BaseURL }}/img/header_fg.svg"/>
 		</div>
 
-		<a id="trigger-headerimage"/>
-		<nav id="main-menu" class="clearfix">
-			<div class="menu-button">Menu</div>
-			<ul class="wrapper flexnav">
+		<nav id="main-menu" class="main-menu">
+			<label for="show-menu" class="show-menu">Menu</label>
+			<input type="checkbox" id="show-menu" role="button">
+			<ul class="wrapper" id="menu" class="main-menu">
 				<li><a href="{{ .Site.BaseURL }}/">Home</a></li>
 				{{ range .Site.Data.Menus }}
-				<li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+				<li>
+					<a href="{{ .URL | absURL }}">{{ .Name }}</a>
+					{{ if .submenus }}
+					<ul class="menuhidden">
+						{{ range .submenus }}
+						<li>
+							<a href="{{ .URL | absURL }}">{{ .Name }}</a>
+						</li>
+						{{ end }}
+					</ul>
+					{{ end }}
 				{{ end }}
 			</ul>
 		</nav>
