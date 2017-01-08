@@ -4,10 +4,8 @@ date = "2016-02-11T11:29:31+01:00"
 description = ""
 keywords = []
 title = "team"
-submenu = "yes"
+
 +++
-
-
 ## [Der Verein](http://www.zapfev.de/)
 ---
 Der ZaPF e.V. ist ein gemeinnütziger Verein, welcher der Förderung von Erziehung und Bildung durch das Physikstudium an den Hochschulen im deutschsprachigen Raum dient. Insbesondere unterstützt er die Durchführung des halbjährig stattfindenden Treffens von Vertretungen der Physikstudierenden der Hochschulen im deutschsprachigen Raum.
