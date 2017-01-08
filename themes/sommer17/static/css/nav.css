@@ -1,0 +1,162 @@
+/* CSS code taken from http://medialoot.com/blog/how-to-create-a-responsive-navigation-menu-using-only-css/ */
+
+/* Code from main.css */
+.main-menu {
+    margin-top: -12px;
+    border-top: 12px solid #4d4d4d;
+    background: #4d4d4d;
+    overflow:hidden;
+}
+
+.main-menu ul {
+    padding: 0;
+    list-style-type: none;
+    background: #4d4d4d;
+}
+
+.main-menu ul li a{
+    display: block;
+}
+
+.main-menu ul li a,
+.submenu ul li a,
+.menu-button{
+    padding: 12px;
+    /*text-align: center;*/
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+
+.main-menu a:hover {
+    color: white;
+    background: #b3b3b3;
+}
+
+/* New code */
+
+/*Create a horizontal list with spacing*/
+.main-menu li {
+	display:inline-block;
+	float: left;
+	margin-right: 1px;
+}
+
+/*Style for menu links*/
+.main-menu li a {
+	text-align: center;
+	text-decoration: none;
+}
+
+/*Hover state for top level links*/
+.main-menu li:hover a {
+	background: #b3b3b3;
+}
+
+/*Style for dropdown links*/
+.main-menu li:hover ul a {
+	background: #4d4d4d;
+	color: white;
+	height: 40px;
+	line-height: 40px;
+}
+
+/*Hover state for dropdown links*/
+.main-menu li:hover ul a:hover {
+	background: #b3b3b3;
+	color: #fff;
+}
+
+/*Hide dropdown links until they are needed*/
+.main-menu li ul {
+	display: none;
+	margin-top: 50px;
+}
+
+/*Make dropdown links vertical*/
+.main-menu li ul li {
+	display: block;
+	float: none;
+}
+
+/*Prevent text wrapping*/
+.main-menu li ul li a {
+	width: auto;
+	min-width: 80px;
+	padding: 0 20px;
+}
+
+/*Display the dropdown on hover*/
+.main-menu ul li a:hover + .menuhidden, .menuhidden:hover {
+	display: block;
+	position: absolute;
+}
+
+/*Style 'show menu' label button and hide it by default*/
+.show-menu {
+	text-decoration: none;
+	color: #fff;
+	background: #4d4d4d;
+	text-align: center;
+	padding: 10px 0;
+	display: none;
+}
+
+/*Hide checkbox*/
+.main-menu input[type=checkbox]{
+    display: none;
+}
+
+/*Show menu when invisible checkbox is checked*/
+.main-menu input[type=checkbox]:checked ~ #menu{
+    display: block;
+}
+
+
+/*Responsive Styles*/
+
+@media screen and (max-width : 750px){
+	/*Make dropdown links appear inline*/
+	.main-menu ul {
+		position: static;
+		display: none;
+	}
+	/*Create vertical spacing*/
+	.main-menu li {
+		margin-bottom: 1px;
+	}
+	/*Style for menu links*/
+	.main-menu li a {
+        	text-align: left;   
+	}
+	/*Make all menu links full width*/
+	.main-menu ul li, .main-menu li a {
+		width: 100%;
+	}
+	/*Prevent text wrapping*/
+	.main-menu li ul li a {  
+        	width: 100%;    
+        	padding: 0 30px;
+	}
+	/*Display 'show menu' link*/
+	.show-menu {
+		display:block;
+	}
+	/*Hide dropdown links until they are needed*/
+	.main-menu li ul {
+		display: inline;
+		margin-top: 0px;
+	}
+	/*Style for dropdown links*/
+	.main-menu li ul a {
+		background: #4d4d4d;
+		color: white;
+		height: 40px;
+		line-height: 40px;
+	}
+	.main-menu ul li a:hover + .menuhidden, .menuhidden:hover {
+		display: inline;
+		position: relative;
+	}
+}
+
