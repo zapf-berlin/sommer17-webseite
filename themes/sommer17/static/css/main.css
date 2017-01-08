@@ -73,13 +73,6 @@ body {
 .header-container {
 }
 
-nav#main-menu,
-nav.anchorific{
-		margin-top: -12px;
-    border-top: 12px solid #4d4d4d;
-		background: #4d4d4d;
-}
-
 .footer-container {
     border-top: 12px solid #4d4d4d;
 }
@@ -146,35 +139,6 @@ nav.anchorific{
 /* ==============
     Menu
    ============== */
-
-nav#main-menu ul {
-    padding: 0;
-    list-style-type: none;
-}
-
-nav#main-menu ul li a{
-    display: block;
-}
-
-nav#main-menu ul li a,
-.submenu ul li a,
-.menu-button{
-		padding: 12px;
-    /*text-align: center;*/
-    text-decoration: none;
-    font-weight: bold;
-    color: white;
-}
-
-nav a:hover,
-nav a:visited {
-    color: white;
-		background: #b3b3b3;
-}
-
-nav a:hover {
-    text-decoration: underline;
-}
 
 .pinned {
 		position: fixed;
@@ -345,16 +309,16 @@ a:hover.anchor {
     INTERMEDIATE: Menu
    ==================== */
 
-    nav#main-menu a {
+    .main-menu a {
         float: left;
         margin-bottom: 0;
     }
 
-    nav li:first-child a {
+    .main-menu li:first-child a {
         margin-left: 0;
     }
 
-    nav li:last-child a {
+    .main-menu li:last-child a {
         margin-right: 0;
     }
 
@@ -362,7 +326,7 @@ a:hover.anchor {
     INTERMEDIATE: IE Fixes
    ======================== */
 
-    nav#main-menu ul li {
+    .main-menu ul li {
         display: inline;
     }
 
@@ -394,8 +358,8 @@ a:hover.anchor {
 
     }
 
-    nav#main-menu {
-				width: 100%;
+    .main-menu {
+        width: 100%;
     }
 /* ============
     WIDE: Main
@@ -488,7 +452,7 @@ a:hover.anchor {
         text-shadow: none !important;
     }
 
-    nav {
+    .main-menu {
 				display: none;
     }
 

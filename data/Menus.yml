@@ -5,6 +5,9 @@
 1:
   Name: "Die Tagung"
   URL: "tagung"
+  submenus:
+  - Name: "Exkursionen"
+    URL: "exkursionen"
 
 2:
   Name: "Anreise"
