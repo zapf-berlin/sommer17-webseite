@@ -94,9 +94,7 @@ nav.anchorific{
 #footer {   /* Footerbereich */
     background-color: #b3b3b3;
     color: #ffffff;
-    height: 15em;
     width: 100%;
-    min-width: 500px;
     padding: 0px;
     margin: 0px;
     border: 0px;
@@ -122,7 +120,19 @@ nav.anchorific{
     margin: 0px auto 0px auto;
     text-align: left;
 }
- #clear {    /* Beendet den Float-Bereich */
+@media only screen and (max-width: 750px)
+{
+    #left, #center, #right
+    {
+        display: block;
+        float: none;
+        width: 100%;
+        padding: 15px 10px 0px 0px;
+        margin: 0px auto 0px auto;
+        text-align: left;
+    }
+}
+#clear {    /* Beendet den Float-Bereich */
     clear: both;
 }
 .main aside {
