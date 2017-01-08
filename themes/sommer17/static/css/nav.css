@@ -112,10 +112,25 @@
     display: block;
 }
 
+.sticky {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	top: 10px;
+	z-index: 100;
+	border-top: 0;
+}
 
 /*Responsive Styles*/
 
-@media screen and (max-width : 750px){
+@media screen and (max-width : 1000px){
+	.header-image {
+		margin-bottom: -3px;
+	}
+	.main-menu {
+		margin-top: 0px;
+		border-top: 0px;
+	}
 	/*Make dropdown links appear inline*/
 	.main-menu ul {
 		position: static;
@@ -157,6 +172,9 @@
 	.main-menu ul li a:hover + .menuhidden, .menuhidden:hover {
 		display: inline;
 		position: relative;
+	}
+	.sticky {
+		top: 0;
 	}
 }
 

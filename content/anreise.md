@@ -4,10 +4,8 @@ date = "2016-02-11T03:37:16+01:00"
 description = ""
 keywords = []
 title = "Anreise"
-submenu = "yes"
 
 +++
-
 ## Wo in Berlin findet ihr uns?
 ---
 Wie auch schon im Sommer 2007 und Winter 2010 findet die ZaPF vom 24. bis 28. Mai 2017 an der Humboldt-Universität zu Berlin auf dem Campus Adlershof statt.
