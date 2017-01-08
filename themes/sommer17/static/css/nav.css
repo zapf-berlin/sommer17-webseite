@@ -112,6 +112,14 @@
     display: block;
 }
 
+.sticky {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	top: 10px;
+	z-index: 100;
+	border-top: 0;
+}
 
 /*Responsive Styles*/
 
@@ -164,6 +172,9 @@
 	.main-menu ul li a:hover + .menuhidden, .menuhidden:hover {
 		display: inline;
 		position: relative;
+	}
+	.sticky {
+		top: 0;
 	}
 }
 
