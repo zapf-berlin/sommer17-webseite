@@ -20,7 +20,7 @@
 				<li><a href="{{ .Site.BaseURL }}/">Home</a></li>
 				{{ range .Site.Data.Menus }}
 				<li>
-					<a href="{{ .URL | absURL }}">{{ .Name }}</a>
+					<a href="{{ .URL | absURL }}">{{ .Name }}{{ if .submenus }} &darr;{{ end }}</a>
 					{{ if .submenus }}
 					<ul class="menuhidden">
 						{{ range .submenus }}
