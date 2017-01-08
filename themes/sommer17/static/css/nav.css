@@ -145,7 +145,7 @@
         	text-align: left;   
 	}
 	/*Make all menu links full width*/
-	.main-menu ul li, .main-menu li a {
+	.main-menu ul li, .main-menu li a, .main-menu li ul, .main-menu li ul li {
 		width: 100%;
 	}
 	/*Prevent text wrapping*/
