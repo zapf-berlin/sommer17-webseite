@@ -115,7 +115,14 @@
 
 /*Responsive Styles*/
 
-@media screen and (max-width : 750px){
+@media screen and (max-width : 1000px){
+	.header-image {
+		margin-bottom: -3px;
+	}
+	.main-menu {
+		margin-top: 0px;
+		border-top: 0px;
+	}
 	/*Make dropdown links appear inline*/
 	.main-menu ul {
 		position: static;
