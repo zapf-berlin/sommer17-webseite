@@ -30,5 +30,17 @@
   URL: "unterstuetzer"
 
 7:
-  Name: "Newsletter"
-  URL: "newsletter"
+  Name: "Helfika"
+  URL: "helfika"
+  submenus:
+  - Name: "FAQ"
+    URL: "helfikafaq"
+  - Name: "Engelsystem"
+    URL: "https://zapf.in-berlin.de/engelsys"
+
+8:
+  Name: "Diverses"
+  URL: "#"
+  submenus:
+  - Name: "Newsletter"
+    URL: "newsletter"
