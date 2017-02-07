@@ -4,8 +4,10 @@
 
 1:
   Name: "Die Tagung"
-  URL: "tagung"
+  URL: "#"
   submenus:
+  - Name: "Zeitplan"
+    URL: "zeitplan"
   - Name: "Exkursionen"
     URL: "exkursionen"
 
