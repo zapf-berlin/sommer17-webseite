@@ -5,7 +5,7 @@ description = ""
 keywords = []
 title = "Exkursionen"
 +++
-# Exkursionen
+# Exkursionen (die Seite wird noch regelmäßig aktualisiert!)
 ---
 ## Max-Planck-Institut für Kolloid- und Grenzflächenforschung (MPIKG)
 Das MPIKG befindet sich im Wissenschaftspark Golm. Es befasst sich mit kleinen und dünnen Strukturen im Nano- bis Mikrometerbereich, die so konzipiert sind, dass sie von selbst eigene Strukturen aufbauen. Diese öffnen die Tore zu Forschungsgebieten, wie „intelligente“ Wirkstoffträgern und Biomaterialien.
@@ -25,27 +25,36 @@ Das AWI hat seinen Platz auf dem Telegrafenberg Potsdam. Es beschäftigt sich mi
 
 __Zur Exkursion wird Dr. Christoph Ritter einen Vortrag zum Thema „Messungen in der arktischen Atmosphäre“ halten.__
 
-## Paul-Drude-Institut für Festkörperelektronik (PDI)
-Das PDI in Berlin-Mitte verbindet Material- und Festkörperphysik miteinander. Sie forschen unter anderem an nanostrukturellen Halbleitern (hauptsächlich III-V-Halbleiter), aber auch an der Erzeugung, Verstärkung, Übertragung und Manipulation von Licht sowie der Spintronik, die der Informationsverarbeitung, -kodierung und -übertragung auf Basis von Quantenzuständen von Photonen und Elektronen zugrunde liegt. Ihre Kernkompetenz liegt bei der Molekularstrahlepitaxie.
+## Deutsches Technikmuseum und Science Center Spectrum
+Das Deutsche Technikmuseum ist eine Reise durch die Kulturgeschichte der Technik. Von Verkehrs- und Kommunikations-, bis hin zu Produktions- und Energietechniken kann man hier alles bewundern.  
+Im Science Center Spectrum könnt ihr dann an 150 Experimentierstationen selbst tätig werden und viele Dinge entdecken.  
+http://sdtb.de/technikmuseum/startseite
 
-_Die Exkursion beschränkt sich auf 10-15 Personen._
+## Naturkundemuseum
+Das Museum für Naturkunde Berlin ist unter anderem für seine Saurierausstellung bekannt. Sie zeigt insbesondere das Skelett des Tyrannosaurus Rex "Tristan" und des Brachiosaurus, dem größten montierten Dinoskelett der Welt. Weitere Ausstellungen sind: System Erde, Evolution, Kosmos und Sonnensystem, Mineralien & Fossilien.  
+https://www.naturkundemuseum.berlin
 
-## Fraunhofer-Institut für Zelltherapie und Immunologie (IZI)
-Das IZI im Wissenschaftspark Golm ist darauf spezialisiert, Lösungen für Probleme zu finden, die sich in der Medizin, Bio- und den Ingenieurswissenschaften ansammeln. Ihre Hauptaufgabe ist die Auftragsforschung für Unternehmen, Kliniken, Labore und Forschungseinrichtungen, um zum Beispiel Point-of-care-Anwendungen wie die in-Vitro-Diagnosik oder das Drogenscreening zu verbessern.
-Der Standort in Potsdam-Golm forscht in folgenden Gebieten:
+## Berliner Unterwelten
+Der Untergrund Berlins beherbergt eine Vielzahl an Bauwerken: von Brauereien und Wasserversorgungssystemen bis hin zu Kellern und Bunkern. Lasst euch entführen in vergangene Zeiten und erlebt ein Stück Stadtgeschichte mal aus einer anderen Perspektive! Diese Exkursion führt euch zum Fichtebunker und seiner rund 130-jährigen Geschichte. [read more](http://berliner-unterwelten.de/tour-f.329.0.html)  
+__Hinweis: warme Kleidung wird empfohlen!__
 
-* Automatisierung: Hierbei ist das Ziel, die Effizienz, Qualität und Quantität von Zellprodukten zu steigern.
-* Molekulare und zelluläre Bioanalytik: Hier werden Zellproben kultiviert, prozessiert und analysiert.
-* Zellfreie und zellbasierte Bioproduktion: Hier werden synthetische Stoffprodukte entwickelt, die auf lebenden Zellen basieren und/oder darauf verzichtet wird.
+_Die Exkursion zu den Berliner Unterwelten ist auf 20 Personen begrenzt._
 
-__Der Schwerpunkt der Exkursion liegt auf der Bioanalytik und den Bioprozessen.__
+## Klassische Stadtführung Berlin mit Reichstagsgebäude
+Du warst noch nie in Berlin und möchtest die Stadt im Ganzen kennenlernen? Dann ist die klassische Stadtführung genau das Richtige. Du hast soger die Chance die Stadt von der berühmten Kuppel des Reichstagsgebäudes zu betrachten. Denk dafür aber bitte an deinen Personalausweis.
 
-## Fritz-Haber-Institut (FHI)
-Das FHI wurde 1911 in Berlin-Dahlem als Kaiser-Wilhelm-Institut für physikalische Chemie und Elektrochemie gegründet. Der erste Direktor dort wurde sein Namensgeber, Fritz Haber. Während seiner langen Geschichte wurden einige Teilinstitute hinzugefügt oder geschlossen, sodass das Institut heute aus fünf Hauptgebieten besteht:
+## Hipster-Stadtführung mit Street Art
+Wem die klassische Stadtführung zu langweilig und zu wenig Berlin ist, der sollte sich für die alternative Hipster-Führung entscheiden. So könnt ihr Berlin kennenlernen und zwar genau so, wie es ist: ungezwungen, bunt und hipster.
 
-* Anorganische Chemie
-* Chemikalische Physik
-* Molekülphysik
-* Physikalische Chemie
-* Theorie
+## Schlösser und Gärten Tour Potsdam
+Potsdam ist bekannt für die vielen Schlösser und Gärten, die das Bild der Stadt prägen. Du möchtest königliche Luft schnuppern und die Wege von Schloss Sanssouci bewandern? Dann solltest du diese einmalige Chance nutzen und den Frühling in Potsdams Gärten bewundern.
 
+## Unitouren
+Berlin ist so groß, dass es nicht nur eine oder zwei - nein, sogar drei - Universitäten hat, in denen sich Physiker tummeln.  
+Adlershof und damit die HU dürft ihr während der Tagung ausführlich kennenlernen. Aber auch die TU bzw. FU wollen wir euch nicht vorenthalten.  
+Doch das Orga-Team der ZaPF besteht ja nicht nur aus Berlinern. Denn was wäre Berlin ohne Potsdam? Und gebt es zu, das legendäre Golm wolltet ihr schon immer mal besuchen.
+
+Für die jeweiligen Touren bemühen wir uns aktuell noch um Highlights (Laborbesichtigungen, Wissenschaftsgeschichte,...) - Infos folgen!
+
+## Wissenschaftscampus Adlershof
+Wem die Wege durch Berlin und nach Potsdam zu lang sind, der hat die Möglichkeit, den Campus in Adlershof genauer unter die Lupe zu nehmen und kann dafür sogar fast im Schlafanzug bleiben. Neben den Instituten der HU befinden sich in Adlershof Einrichtungen wie der Elktronenspeicherring BESSY II des HZB, das DLR, das Fraunhofer-Institut für Rechenarchitektur und Softwaretechnik (FIRST) und viele weitere.
