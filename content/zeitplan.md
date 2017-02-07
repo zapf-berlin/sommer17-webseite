@@ -5,8 +5,7 @@ description = ""
 keywords = []
 title = "Die Tagung"
 +++
-# Die Tagung
-## Programm
+# Zeitplan
 ---
 Die ZaPF findet vom 24. bis 28. Mai 2017 statt. Traditionell ist hierbei der Mittwoch für die Anreise und das Anfangsplenum vorgesehen, der Sonntag für das Endplenum sowie die Abreise.
 
