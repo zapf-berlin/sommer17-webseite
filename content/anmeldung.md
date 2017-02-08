@@ -8,4 +8,6 @@ title = "Anmeldung"
 +++
 # Anmeldung
 ---
-Die Anmeldung wird freigeschaltet, sobald die Einladungen an die Fachschaften verschickt wurden.
+Aufgrund technischer Störungen kommt es zu Verzögerungen im Betriebsablauf. Wir bitten dies zu entschuldigen. Die Anmeldung wird bald geöffnet.
+
+&#35;BER &#35;NiemandhatdieAbsicht
