@@ -8,6 +8,5 @@ title = "Anmeldung"
 +++
 # Anmeldung
 ---
-Aufgrund technischer Störungen kommt es zu Verzögerungen im Betriebsablauf. Wir bitten dies zu entschuldigen. Die Anmeldung wird bald geöffnet.
 
-&#35;BER &#35;NiemandhatdieAbsicht
+# <a href="https://anmeldung.zapf.in">Hier Klicken</a>
