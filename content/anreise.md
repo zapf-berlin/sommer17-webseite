@@ -6,6 +6,10 @@ keywords = []
 title = "Anreise"
 
 +++
+## Deutscher Evangelischer Kirchentag
+---
+Parallel zu unserer ZaPF findet vom 24. bis 28. Mai 2017 der Deutsche Evangelische Kirchentag in Berlin und Lutherstadt Wittenberg statt. Erwartet werden weit über 100.000 Menschen, die zu dieser Zeit zwischen Berlin - Wittenberg und den weiteren am 500-jährigen Reformationsjubiliäum teilnehmenden Städten beim "Kirchentag auf dem Weg" pendeln. Aus bzw. zu folgenden Städten ist aus diesem Grund mit einer hohen Reisendenzahl zu rechnen: Magdeburg, Erfurt, Weimar, Jena, Dessau-Roßlau, Halle, Leipzig und natürlich Berlin und Lutherstadt Wittenberg. Berücksichtigt das bei eurer Planung der An- und Abreise!
+
 ## Wo in Berlin findet ihr uns?
 ---
 Wie auch schon im Sommer 2007 und Winter 2010 findet die ZaPF vom 24. bis 28. Mai 2017 an der Humboldt-Universität zu Berlin auf dem Campus Adlershof statt.
