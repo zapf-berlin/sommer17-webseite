@@ -8,7 +8,7 @@
   submenus:
   - Name: "Zeitplan"
     URL: "zeitplan"
-    Name: "Vor Ort"
+  - Name: "Vor Ort"
     URL: "orientierung"
   - Name: "Exkursionen"
     URL: "exkursionen"
