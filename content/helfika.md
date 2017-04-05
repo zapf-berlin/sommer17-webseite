@@ -8,6 +8,11 @@ title = "Helfika"
 +++
 ## Helfika
 ---
-Für die Durchführung der Tagung sind wir auf die tatkräftige Unterstützung zahlreicher helfender Hände angewiesen. Wenn ihr uns helfen wollt oder mehr Informationen dazu haben wollt, schreibt eine Mail an helfika[at]zapf.in-berlin.de
+Für die Durchführung der Tagung sind wir auf die tatkräftige
+Unterstützung zahlreicher helfender Hände angewiesen. Wenn ihr uns
+helfen wollt oder mehr Informationen dazu haben wollt, könnt ihr euch
+hier in unsere [Mailingliste eintragen](http://mailman.zapf.in-berlin.de/mailman/listinfo/helfika-liste-zapf.in-berlin.de).
+Wenn ihr das gemacht habt, erhaltet ihr eine Willkommensmail mit allen
+nötigen Informationen.
 
-Ihr könnt euch demnächst auch direkt in unsere Helfika-Mailingliste eintragen.
+Bei Fragen könnt ihr euch an [helfika@zapf.in-berlin.de](mailto:helfika@zapf.in-berlin.de) wenden.
