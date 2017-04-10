@@ -9,23 +9,19 @@ title = "Exkursionen"
 ---
 ## Max-Planck-Institut für Kolloid- und Grenzflächenforschung (MPIKG)
 Das MPIKG befindet sich im Wissenschaftspark Golm. Es befasst sich mit kleinen und dünnen Strukturen im Nano- bis Mikrometerbereich, die so konzipiert sind, dass sie von selbst eigene Strukturen aufbauen. Diese öffnen die Tore zu Forschungsgebieten, wie „intelligente“ Wirkstoffträgern und Biomaterialien.
-Das MPIKG gliedert sich in die Bereiche:
 
-* Biomaterialien
-* Biomolekulare Systeme
-* Kolloidchemie
-* Theorie und Bio-Systeme
-* Mechano(Bio-)Chemie
-* Grenzflächen (Emeritusgruppe)
+Euch erwarten an dem Tag drei Vorträge von Mitarbeitern des Instituts:
+
+* Hierarchische Struktur von Knochen
+* „Bio-Membrane Research Labs“
+* „Proteins at work“
 
 _Die Exkursion ins MPIKG ist auf 15 Personen begrenzt._
 
-<!-- ## Alfred-Wegener-Institut für Polar- und Meeresforschung (AWI)
-Das AWI hat seinen Platz auf dem Telegrafenberg Potsdam. Es beschäftigt sich mit komplexeren Prozessen, wie das Klimageschehen und Klimawandel, vor allem in den kalten und gemäßigten Gebieten. Vor allem arbeiten sie eng mit den Bio-, Geo- und Klimawissenschaften zusammen. Durch ihre stets aktuelle Forschung weltweit sind sie eng in Politik und Gesellschaft involviert.
+## Alfred-Wegener-Institut für Polar- und Meeresforschung (AWI)
+Das AWI befindet sich auf dem Telegrafenberg in Potsdam. Es gehört zu den wenigen wissenschaftlichen Instituten weltweit, die sowohl in der Arktis als auch der Antarktis aktiv sind. Zunehmend in den Mittelpunkt der Forschung rückt dabei das Klimageschehen der Erde. Dr. Christoph Ritter wird bei der Exkursion einen Rundumschlag des Instituts geben. Er wird über die Atmosphäre der Polargebiete und Aerosole im Klimasystem reden und anschließend über das Lidarverfahren referieren, wobei er auf die aktuellen Forschungen des AWI eingehen wird.
 
-__Zur Exkursion wird Dr. Christoph Ritter einen Vortrag zum Thema „Messungen in der arktischen Atmosphäre“ halten.__
-
-_Die Exkursion ins AWI ist auf 15 Personen begrenzt._ -->
+_Die Exkursion ins AWI ist auf 15 Personen begrenzt._
 
 ## Helmholtz Zentrum Berlin mit BESSY II
 Das Helmholtz Zenturm Berlin betreibt in Adlershof mit BESSY II eine hochbrilliante Synchrotron Strahlungsquelle. Dafür werden Elektronen auf 1,7 GeV beschleunigt und im Speicherring mit 240 Meter Umfang in Magnetfeldern abgelenkt. An den 50 Beamlines lassen sich dann Untersuchungen mit Auflösungen bis in den Nanometer- und Femtosekundenbereich durchführen.
