@@ -187,7 +187,7 @@ body {
 	display: block;
 	width: 0;
 	height: 50px;
-	margin: -50px 0 0;
+	margin: -10px 0 0;
 }
 
 a.anchor {
@@ -289,16 +289,38 @@ a:hover.anchor {
 		z-index: 0;
 }
 
+figure {
+  margin-left: 0px;
+  margin-right: 0px;
+}
 
+figure img {
+    width: 100%;
+}
 
+figure.half-width img {
+    width: 50%;
+}
 
+figure.third-width img {
+    width: 33%;
+}
 
+figure.pull-left,
+figure.pull-right {
+    float: none;
+    clear: both;
+}
 
+figure.pull-left img{
+    float: left;
+    margin-right: 40px;
+}
 
-
-
-
-
+figure.pull-right img{
+    float: right;
+    margin-left: 40px;
+}
 /* ==========================================================================
    Media Queries
    ========================================================================== */
@@ -436,6 +458,14 @@ a:hover.anchor {
 
 .clearfix {
     *zoom: 1;
+}
+
+.pull-left {
+    float: left;
+}
+
+.pull-right {
+    float: right;
 }
 
 /* ==========================================================================
