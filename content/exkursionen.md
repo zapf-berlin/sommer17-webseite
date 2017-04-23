@@ -28,15 +28,6 @@ Das Helmholtz Zenturm Berlin betreibt in Adlershof mit BESSY II eine hochbrillia
 
 _Die Exkursion ins BESSY II ist auf 15 Personen begrenzt._
 
-<!-- ## Leibniz-Institut für Astrophysik Potsdam (AIP)
-Das Leibnizinstitut für Astrophysik Potsdam hat seinen Standort in Potsdam Babelsberg. Das Institut ist das erste Institut weltweit, welches sich nur der Forschung der Astrophysik widmet. Die Forschungsschwerpunkte sind:
-
-* Extragalaktische Astrophysik    
-* Kosmische Magnetfelder   
-* Entwicklung von Forschungstechnologien in den Bereichen Spektroskopie, robotische Teleskope und E-Science  
-
-_Die Exkursion ins AIP ist auf 15 Personen begrenzt._ -->
-
 ## Deutsches Technikmuseum und Science Center Spectrum
 Das Deutsche Technikmuseum ist eine Reise durch die Kulturgeschichte der Technik. Von Verkehrs- und Kommunikations-, bis hin zu Produktions- und Energietechniken kann man hier alles bewundern.  
 Im Science Center Spectrum könnt ihr dann an 150 Experimentierstationen selbst tätig werden und viele Dinge entdecken.  
@@ -55,9 +46,9 @@ _Die Exkursion zu den Berliner Unterwelten ist auf 20 Personen begrenzt._
 ## Klassische Stadtführung Berlin mit Reichstagsgebäude
 Du warst noch nie in Berlin und möchtest die Stadt im Ganzen kennenlernen? Dann ist die klassische Stadtführung genau das Richtige. Du hast soger die Chance die Stadt von der berühmten Kuppel des Reichstagsgebäudes zu betrachten. Denk dafür aber bitte an deinen Personalausweis.
 
-## Alternative Stadtführung
+## Alternative Stadtführung - "Draußen schlafen ist eine Kunst"
 Wem die klassische Stadtführung zu langweilig und zu wenig Berlin ist, der sollte sich für die alternative Führung entscheiden.  
-Hier lernt ihr das Berlin kennen, indem wir wirklich leben: grau und bunt, voller Widersprüche und Geschichten. Wenn ihr wollt können wir sogar beim Berghain vorbeischauen und ihr könnt vor der geschlossenen Türe Selfies machen.
+Bei dieser Tour erlebt ihr Berlin aus der Sichtweise von Uwe. Er war kurz nach der Wende obdachlos. Neben besonderen Schlafplätzen, wichtige Freundschaften und seiner außergewöhnlichen Lebensgeschichte, könnt ihr mit Uwe auch über Überlebensstrategien und die Gestaltung des öffentlichen Raumes diskutieren. Lernt Berlin auf eine besondere Art und Weise kennen.
 
 ## Schlösser und Gärten Tour Potsdam
 Potsdam ist bekannt für die vielen Schlösser und Gärten, die das Bild der Stadt prägen. Du möchtest königliche Luft schnuppern und die Wege von Schloss Sanssouci bewandern? Dann solltest du diese einmalige Chance nutzen und den Frühling in Potsdams Gärten bewundern.
