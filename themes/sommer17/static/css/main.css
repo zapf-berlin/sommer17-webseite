@@ -294,6 +294,10 @@ figure {
   margin-right: 0px;
 }
 
+figure img {
+   max-width: 100%;
+}
+
 figure.full-width img {
     width: 100%;
 }
