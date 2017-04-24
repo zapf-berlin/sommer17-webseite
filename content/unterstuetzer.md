@@ -13,3 +13,11 @@ Um die Tagung durchführen zu können, sind wir über jede Unterstützung, die w
 {{< figure src="/berlin/img/sponsor/zurich_instruments.jpg" title="Zurich Instruments" link="https://www.zhinst.com/" >}}
 
 {{< figure src="/berlin/img/sponsor/Springer.jpg" title="Springer-Verlag GmbH" link="http://www.springer.com/springer+spektrum/physik+%26+astronomie?SGWID=0-1734913-0-0-0?utm_medium=referral&utm_source=studentorg_zapf_website&utm_campaign=3_rump02_sponsoring&utm_content=springerlogo_04012017" >}}
+
+{{< figure src="/berlin/img/sponsor/Juelich.png" title="Forschungszentrum Jülich" link="https://www.fz-juelich.de/" >}}
+
+{{< figure src="/berlin/img/sponsor/we-heraeus.gif" title="Wilhelm und Else Heraeus-Stiftung" link="http://www.we-heraeus-stiftung.de/" >}}
+
+{{< figure src="/berlin/img/sponsor/OWIS.png" title="OWIS" link="http://www.owis.eu/" >}}
+
+{{< figure src="/berlin/img/sponsor/suk-logo.png" title="Schäfter+Kirchhoff" link="http://www.sukhamburg.com" >}}
