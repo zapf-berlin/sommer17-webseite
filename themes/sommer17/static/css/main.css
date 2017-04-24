@@ -294,7 +294,7 @@ figure {
   margin-right: 0px;
 }
 
-figure img {
+figure.full-width img {
     width: 100%;
 }
 
