@@ -74,19 +74,16 @@ body {
 }
 
 .footer-container {
-    border-top: 12px solid #4d4d4d;
+    border-top: 18px solid #4d4d4d;
 }
 
 .header-container .title {
 		color: #4d4d4d;
 }
 
-.footer-container {
-    background: #b3b3b3;
-}
 #footer {   /* Footerbereich */
-    background-color: #b3b3b3;
-    color: #ffffff;
+    background-color: white;
+    color: #4d4d4d;
     width: 100%;
     padding: 0px;
     margin: 0px;
