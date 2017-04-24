@@ -20,6 +20,6 @@ Um die Tagung durchführen zu können, sind wir über jede Unterstützung, die w
 
 {{< figure src="/berlin/img/sponsor/we-heraeus.gif" title="Wilhelm und Else Heraeus-Stiftung" link="http://www.we-heraeus-stiftung.de/" >}}
 
-{{< figure src="/berlin/img/sponsor/OWIS.png" title="OWIS" link="http://www.owis.eu/" >}}
+{{< figure src="/berlin/img/sponsor/OWIS.jpg" title="OWIS" link="http://www.owis.eu/" >}}
 
 {{< figure src="/berlin/img/sponsor/suk-logo.png" title="Schäfter+Kirchhoff" link="http://www.sukhamburg.com" >}}
