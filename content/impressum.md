@@ -2,7 +2,7 @@
 title = "Impressum"
 
 +++
-Verantwortlich für diese Website (http://www.zapfev.de) im Sinne von § 5 des Telemediengesetzes (TMG) ist:
+Verantwortlich für diese Website (https://zapf.in/berlin) im Sinne von § 5 des Telemediengesetzes (TMG) ist:
 
 ZaPF e.V. <br/>
 Goethe Universität Frankfurt <br/>
