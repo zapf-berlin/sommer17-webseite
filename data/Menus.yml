@@ -12,6 +12,8 @@
     URL: "orientierung"
   - Name: "Exkursionen"
     URL: "exkursionen"
+  - Name: "Tagungsheft"
+    URL: "https://zapf.in-berlin.de/tagungsheft/Tagungsheft.pdf"
 
 2:
   Name: "Anreise"
