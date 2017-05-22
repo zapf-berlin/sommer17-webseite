@@ -23,3 +23,5 @@ Um die Tagung durchführen zu können, sind wir über jede Unterstützung, die w
 {{< figure src="/berlin/img/sponsor/OWIS.jpg" title="OWIS" link="http://www.owis.eu/" >}}
 
 {{< figure src="/berlin/img/sponsor/suk-logo.png" title="Schäfter+Kirchhoff" link="http://www.sukhamburg.com" >}}
+
+{{< figure src="/berlin/img/sponsor/HIOS_Logo_V2.png" title="Sonderforschungsbereich 951" link="https://www.physik.hu-berlin.de/de/sfb951" >}}
